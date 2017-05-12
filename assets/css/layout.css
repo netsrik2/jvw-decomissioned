@@ -1,0 +1,69 @@
+/* Layout.css */
+
+/* typography */
+@media only screen and (min-width: 36.1em) {
+    body {padding: 0 2.3em;}
+
+}
+@media only screen and (min-width: 40em) {
+    main {font-size: 1.2em;}
+    header h1 {font-size: 3em;}
+    
+}
+
+@media only screen and (max-width: 23.75em) {
+    a.outnow {font-size: 2.5em; 
+}
+}
+
+@media only screen and (min-width:34.5em)   {
+    body.home {
+        background-image:url(../img/primadonna.jpg);
+        background-position: ;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+}
+
+@media only screen and (min-width:800px)   {
+    body.home {
+        background-image:url(../img/primadonna_mejum.jpg);
+}
+}
+
+@media only screen and (min-width:1014px)   {
+    body.home {
+        background-image:url(../img/primadonna_wide.jpg);
+}
+}
+
+/* @media only screen and (min-width:34.5em)	{
+	body.home {
+        background-image:url(../img/album_artwork/this_bright_day_photo_by_william_lacalmonti_portrait.png);
+        background-position: 50% top;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    /* .main-nav ul{
+       margin: 0 auto;
+    }
+    .main-nav li {
+       float: left;
+       width: 16.6%;
+       text-align: center;
+    } */
+/* }
+
+ @media only screen and (min-width:800px)   {
+    body.home {
+        background-image:url(../img/album_artwork/this_bright_day_photo_by_william_lacalmonti_portrait_1024.png);
+}
+}
+@media only screen and (min-width:1014px)   {
+    body.home {
+        background-image:url(../img/album_artwork/this_bright_day_photo_by_william_lacalmonti_portrait_1678.png);
+}
+}
+
+*/

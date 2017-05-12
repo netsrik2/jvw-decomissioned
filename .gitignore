@@ -1,0 +1,10 @@
+.DS_Store
+
+config.private.php
+
+node_modules/**/*
+
+/perch/core
+/perch/config
+/perch/addons
+/perch/resources
